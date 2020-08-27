@@ -8,3 +8,5 @@ I've covered the following Object-Oriented Concepts in this demonstration:
 - Generic typing
 - Interfaces
 - Inheritance
+- Polymorphism
+- Encapsulation
