@@ -10,3 +10,10 @@ I've covered the following Object-Oriented Concepts in this demonstration:
 - Inheritance
 - Polymorphism
 - Encapsulation
+
+## Usage
+Simply run `RecommenderClient.java`
+
+## Author
+Carl Molnar  
+8/26/2020
